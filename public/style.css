@@ -1,0 +1,9 @@
+.block {
+	width: 100px;
+	height: 100px;
+	background-size: cover !important;
+	background-position: center !important;
+}
+.block img {
+	display: none;
+}
